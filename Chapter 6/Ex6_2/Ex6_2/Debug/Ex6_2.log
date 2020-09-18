@@ -1,0 +1,3 @@
+﻿  Assembling Summing_Array_Elements_in_a_Range.asm...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\SmallWin.inc(11): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Ex6_2.vcxproj -> C:\Work\Assembly language for x86 processors\Chapter 6\Ex6_2\Debug\Ex6_2.exe

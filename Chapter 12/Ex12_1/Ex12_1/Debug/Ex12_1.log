@@ -1,0 +1,3 @@
+﻿  Assembling Floating-Point_Comparison.asm...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\SmallWin.inc(11): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Ex12_1.vcxproj -> C:\Work\Assembly language for x86 processors\Chapter 12\Ex12_1\Debug\Ex12_1.exe

@@ -1,0 +1,3 @@
+﻿  Assembling Parity_Checking.asm...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\SmallWin.inc(11): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Ex6_10.vcxproj -> C:\Work\Assembly language for x86 processors\Chapter 6\Ex6_10\Debug\Ex6_10.exe
